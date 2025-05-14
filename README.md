@@ -1,0 +1,2 @@
+# config-repo
+centralizse configuration
